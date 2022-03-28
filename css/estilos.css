@@ -76,6 +76,12 @@ body{
     font-size: 37px;
 }
 
+@media (min-width: 992px) and (max-width: 1199px) {
+    .text-15px-special{
+        font-size: 15px;
+    }
+}
+
 @media (min-width: 992px) {
     .text-lg-58px{
         font-size: 58px;
